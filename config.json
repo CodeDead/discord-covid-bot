@@ -1,0 +1,13 @@
+{
+  "discord": {
+    "token": "",
+    "commandPrefix": "/"
+  },
+  "covidApi": {
+    "status": "https://covid19-api.org/api/status/"
+  },
+  "author": {
+    "name": "CodeDead",
+    "url": "https://codedead.com"
+  }
+}
