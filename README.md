@@ -22,7 +22,7 @@ https://discord.com/api/oauth2/authorize?client_id=744333798757367880&permission
 /stats (country)
 ```
 
-Example: `/stats UK`
+Example: `/stats US`
 
 **Compare the statistics of two countries:**
 ```Bash
