@@ -7,8 +7,7 @@ A simple Discord bot that can display COVID19 statistics.
 
 ## Installation
 
-You can add the bot to your Discord server using the following URL:
-
+You can add the bot to your Discord server using the following URL:  
 https://discord.com/api/oauth2/authorize?client_id=744333798757367880&permissions=67584&scope=bot
 
 ## Commands
