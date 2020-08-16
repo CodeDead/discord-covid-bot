@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const process = require('process');
 const fs = require('fs');
 
 const client = new Discord.Client();
@@ -35,7 +36,7 @@ client.on('message', (message) => {
   }
 });
 
-client.login(config.discord.token)
+client.login(process.env.DISCORD_TOKEN)
   .catch((error) => {
     // eslint-disable-next-line no-console
     console.log(error);
